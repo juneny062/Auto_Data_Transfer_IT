@@ -1,0 +1,12 @@
+{
+    "source": "",
+    "dest": "",
+    "file_type": "All",
+    "auto_day": "1",
+    "auto_interval": "1",
+    "auto_operation": "move",
+    "auto_time": "00:01",
+    "min_free_space_gb": "5.0",
+    "filter_old": false,
+    "months_old": "3"
+}
