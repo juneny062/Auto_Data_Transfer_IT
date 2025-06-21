@@ -1,0 +1,10 @@
+2025-06-21 11:22:31 - ℹ️ last_run.json not found. Initializing with current date.
+2025-06-21 11:22:31 - Scheduler: Background scheduler thread started.
+2025-06-21 11:22:34 - ✅ Configuration saved successfully
+2025-06-21 11:22:36 -  🔁 Starting move operation...
+2025-06-21 11:22:36 - Beginning file operation logic for Move from '' to '' (File type: All).
+2025-06-21 11:22:36 - ❌ Error: Source folder not found: 
+2025-06-21 11:22:36 - Operation 'move' finished execution.
+2025-06-21 11:22:36 - Scheduler: Checking for scheduled run...
+2025-06-21 11:22:36 - Scheduler: Not yet time to run. Next run: Last Run: 2025-06-21 | Next Scheduled: 2025-07-01 00:01 | in 9 days, 12 hours, 38 minutes
+2025-06-21 11:22:38 - ❌ Operation Cancelled By User
