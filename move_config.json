@@ -1,0 +1,12 @@
+{
+    "source": "D:/Other/Data PE",
+    "dest": "D:/Other/Data test move",
+    "file_type": "\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14",
+    "auto_day": "1",
+    "auto_interval": "1",
+    "auto_operation": "move",
+    "auto_time": "8:50",
+    "min_free_space_gb": "1",
+    "filter_old": true,
+    "months_old": "3"
+}
